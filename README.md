@@ -24,7 +24,7 @@
 <!-- - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 ##- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br> -->
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">😍 Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -32,51 +32,39 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/react.png" width="48" height="48" alt="ReactJs" />
       </a>
-      <br>Go
+      <br>ReactJs
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/node.png" width="48" height="48" alt="NodeJs" />
       </a>
-      <br>Python
+      <br>NodeJs
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/ts.png" width="48" height="48" alt="Typescript" />
       </a>
-      <br>Jsonnet
+      <br>Typescript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/docker.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/ubuntu.png" width="48" height="48" alt="Ubuntu" />
       </a>
-      <br>Grafana
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/laravel.png" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
     </td>
   </tr>
 </table>
