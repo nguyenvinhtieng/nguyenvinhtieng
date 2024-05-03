@@ -1,15 +1,44 @@
-# Nguyễn Vinh Tiếng
-### A Front-End Dev designs & implements user-facing parts of web apps using HTML, CSS & JavaScript. Works with Back-End Devs to ensure functional & clien
-
-⤷ A Front-End Developer is responsible for creating visually appealing and interactive user experiences for web applications. They utilize technologies such as HTML, CSS, and JavaScript to build and maintain the front-end of a website or application. They work closely with back-end developers to ensur
-
- <a aligh="left" href="https://https://vinhtieng-portfolio.vercel.app/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:vinhtieng123@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>  
-
-⚐ Based in Ho Chi Minh
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
+```
+    _   __                                _    ___       __       _______                 
+   / | / /___ ___  ____  _____  ____     | |  / (_)___  / /_     /_  __(_)__  ____  ____ _
+  /  |/ / __ `/ / / / / / / _ \/ __ \    | | / / / __ \/ __ \     / / / / _ \/ __ \/ __ `/
+ / /|  / /_/ / /_/ / /_/ /  __/ / / /    | |/ / / / / / / / /    / / / /  __/ / / / /_/ / 
+/_/ |_/\__, /\__,_/\__, /\___/_/ /_/     |___/_/_/ /_/_/ /_/    /_/ /_/\___/_/ /_/\__, /  
+      /____/      /____/                                                         /____/   
+
+```
 
 
 
- ## Skills
-   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://vuejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vue.svg" alt="Vue" width="25" height="25" /></a> <a href="http://svelte.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/svelte.svg" alt="Svelte" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm a Web Developer focused on ReactJs and Nodejs
+- :hourglass_flowing_sand: Exploring AWS & Docker
+- :rocket: Always ready to collaborate for Dev Experiments
+- :dart: Available for freelancer work!
+<!-- - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+##- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br> -->
+
+<h2 align="left">🌏 Where to find me:</h2>
+<p>
+ <a href="https://github.com/nguyenvinhtieng" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+ </a>
+ <a href="https://www.linkedin.com/in/vinhtieng-dev/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+  <a href="https://www.facebook.com/nvinhtieng" target="_blank">
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230866FF.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
+ </a>
+ <a href="mailto:vinhtieng123@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/vinhtieng123@gmail.com-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+ </a>
+  <a href="tel:0353571047" target="_blank">
+  <img alt="Phone" src="https://img.shields.io/badge/+84%20353571047-%23000.svg?&style=for-the-badge&logo=Phone&logoColor=white" />
+ </a>
+  
+
+</p>
